@@ -1,1 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>My Queen’s Student Page</title>
+    <link rel="stylesheet" href="style.css"/> <!-- do not change this line -->
+  </head>
+  <body>
+    <header>
+      <h1>Magnolia Boston</h1> <!-- change this heading to your name -->
+    </header>
 
+    <main>
+      <!-- ====== ABOUT SECTION (edit the text) ====== -->
+      <h2>About Me</h2>
+      <p>I am a student at Queen’s School of Computing. I’m interested in creative computing and tech marketing. Outside of school i am a barista, i enjoy being active and working out, and most of all i love spending quality time with my friends here at Queens! <!-- replace with interests -->.</p>
+
+      <!-- ====== PHOTO (upload me.jpg to repo root, then update the src below) ====== -->
+      <img src="magnoliaboston.jpg" alt="Magnolia Boston Portrait" width="673" height="378" />
+
+      <!-- ====== PROJECTS/COURSES (add or rename items to courses instead of projects) ====== -->
+      <h2>Courses</h2>
+      <ul>
+        <li>Course One — CISC 121: Introduction to Computing Science.</li>
+        <li>Course Two — FILM 113: Media Studies: Culture and Tech.</li>
+        <li>Course Three — FILM 217: Film Theory and History.</li>
+        <li>Course Four — FILM 240: Intro to Popular Culture.</li>
+      </ul>
+
+      <!-- ====== CONTACT (update your links) ====== -->
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto: 23pxp@queensu.ca">23pxp@queensu.ca</a></p>
+    </main>
+  </body>
+</html>
